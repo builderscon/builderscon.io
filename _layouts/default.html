@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>{{ site.title }}</title>
+<base href="{{ site.url }}" />
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@builderscon">
+<meta property="fb:app_id" content="{{ site.fb_app_id }}" />
+<meta property="og:title" content="{{ if page }}{{ page.title }}{{ else }}{{ site.title }}{{ end }}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ if page }}{{ page.url }}{{ else }}{{ site.url }}{{ endif }}">
+<meta property="og:image" content="{{ site.url }}/assets/images/hex_logo.png">
+<meta property="og:description" content="{{ site.description }}">
+<link rel="shortcut icon" href="./assets/images/favicon.ico">
+<link rel="stylesheet" href="./assets/css/style.css" />
+<!--link rel="stylesheet" href="./assets/css/demo.css" /-->
+</head>
+<body>
+<a id="top" name="top"></a>
+
+<div id="wrapper">
+
+<header id="header">
+<div class="inner">
+<h1><a href="/"><img src="./assets/images/logo.png" alt="builderscon" /></a></h1>
+<div class="btn-menu"><a href="#menu"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></a></div><!--  / .btn-menu /  -->
+</div><!--  / .inner /  -->
+{% include headmenu.html %}
+</header>
+
+<div id="heroimage">
+<div class="wrapper">
+<div class="inner">
+<div class="column">
+<h1><a href="{{ site.url }}">{{ site.title }}</a></h1>
+<h2>builderscon is a festival for the technology lovers.</h2>
+</div>
+</div><!--  / .inner /  -->
+</div><!--  / .wrapper /  -->
+<div id="hexlogo">
+<div class="base"><img src="./assets/images/hex_base.png" /></div><!--  / .base /  -->
+<div class="logo"><img src="./assets/images/hex_logo.png" /></div><!--  / .logo /  -->
+</div><!--  / #hexlogo /  -->
+</div><!--  / #heroimage /  -->
+
+<div id="contents" class="{{ page.main_content_class }}">
+{{ content }}
+</div>
+
+</div><!--  / #content /  -->
+
+<aside><div id="footer-logo">builderscon</div></aside>
+
+<footer>
+<div id="footer">
+<div class="inner">
+<div class="social-button">
+<ul>
+<li><a href="https://twitter.com/builderscon" title="Twitter" target="_blank"><span class="i-twitter"></span></a></li>
+<li><a href="https://github.com/builderscon" title="GitHub" target="_blank"><span class="i-github"></span></a></li>
+</ul>
+</div><!--  / .social-button /  -->
+
+<div class="contents">
+<p>builderscon is a festival for the technology lovers.</p>
+<address>© 2016 builderscon</address>
+</div><!--  / .contents /  -->
+
+</div><!--  / .inner /  -->
+</div><!--  / #footer /  -->
+</footer>
+
+<div id="pagetop"><a href="#top"><span class=" i-flight"></span></a></div>
+
+</div><!--  / #wrapper /  -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
+<script src="./assets/js/functions.js"></script>
+
+</body>

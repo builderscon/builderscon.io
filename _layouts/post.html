@@ -1,0 +1,28 @@
+---
+layout: default
+---
+{% assign author = site.authors[page.author] %}
+<div class="section article">
+<div class="inner">
+<div class="section-content no-header">
+
+<header class="post-header">
+<h1 class="post-title" itemprop="name headline">{{ post.title }}</h1>
+<div class="post-meta">
+<p><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time><p>
+{% if author %}
+<p itemprop="author" itemscope itemtype="http://schema.org/Person">
+<img src="http://www.gravatar.com/avatar/{{ author.gravatar_id }}?s=40">
+<span itemprop="name">{{ author.display_name }}</span>
+</p>
+{% endif %}
+</div>
+</header>
+
+<div class="post-content" itemprop="articleBody">
+{{ content }}
+</div>
+
+</div><!--  / .section-content /  -->
+</div><!--  / .inner /  -->
+</div><!--  / .article /  -->
