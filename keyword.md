@@ -101,13 +101,13 @@ https://github.com/builderscon/planning/wiki/Staff
 
 ***
 
-### 会場：Red Bull Studios Tokyo 5F (注意事項：この表記以外の会場案内はNG)
-東京都渋谷区渋谷1-3-3 ヒューリック青山第二ビル
+### 会場：Red Bull Studios Tokyo 5F 
+**(注意事項：上記表記以外の会場案内はNG)**
+所在地：東京都渋谷区渋谷1-3-3 ヒューリック青山第二ビル
  - 担当：Redbullかずちゃん kamadango渉外
  - lestrrat,uzulla,kamadango下見済み
  - 同時接続で8000~12000User Twitchでのゲーム実況中継実績あり。
-
-
+ 
 #### uzullaさんの会場調査メモ
  - マイクがワイヤレスが二個、それ以上は別途用意が必要、入力先はある
  - ピンマイクはない
