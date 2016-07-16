@@ -14,9 +14,14 @@ fieldset, img {
 	border: 0;
 }
 
-address, caption, cite, code, dfn, em, strong, th, var {
+address, caption, cite, code, dfn, em, th, var {
 	font-style: normal;
 	font-weight: normal;
+}
+
+strong {
+	font-weight: bold;
+	line-height: inherit;
 }
 
 ol, ul {
