@@ -8,7 +8,8 @@
 **雑多にまとめていき公開できるようになったらページ分割含め検討してマージします**
 
 #### スタッフの皆様のノウハウページ
- - [ノベルティ梱包How to](https://speakerdeck.com/takeshiyako/how-to-pack-novelty-goods-yapc-asia-tokyo-2015)
+ - [ノベルティ梱包How to](https://speakerdeck.com/takeshiyako/how-to-pack-novelty-goods-yapc-asia-tokyo-2015) takeshiyakoさん
+  - 6時間かかっていた作業が3時間になった
 
 ***
 
