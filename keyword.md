@@ -7,9 +7,8 @@
 
 **雑多にまとめていき公開できるようになったらページ分割含め検討してマージします**
 
-#### 過去のイベントスタッフの皆様のノウハウページ
- - https://speakerdeck.com/takeshiyako/how-to-pack-novelty-goods-yapc-asia-tokyo-2015
- - http://d.hatena.ne.jp/ishikawam/20111020/p1
+#### スタッフの皆様のノウハウページ
+ - [ノベルティ梱包How to](https://speakerdeck.com/takeshiyako/how-to-pack-novelty-goods-yapc-asia-tokyo-2015)
 
 ***
 
