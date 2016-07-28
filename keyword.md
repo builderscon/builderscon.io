@@ -178,6 +178,7 @@ https://github.com/builderscon/planning/wiki/Staff
  - チケット販売(P-tixで管理)
  - グループリーダー
  - 感想ブログのまとめ
+
 ##### 失敗談
  - 登壇者とまさかの同じカバンで、間違って登壇者のカバンを持って帰った。
   - Facebookグループメッセージでmonmonさんから「カバン持って行ってないか？」聞かれ気づく
