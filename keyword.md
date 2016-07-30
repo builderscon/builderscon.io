@@ -207,6 +207,7 @@ https://github.com/builderscon/planning/wiki/Staff
 #### oniguraさん [onigra.github.io](http://onigra.github.io/)
 ##### スタッフになったきっかけ
 2014年、誰かに誘われたわけではなく、コードを書くことではない形でも、労働力の提供であればOSSコミュニティに貢献できると想い、参加してみた。ruby20周年のスタッフもした。
+
 ##### スタッフとしてやったこと
  - 当日の部屋付きスタッフ
  - 担当した部屋での司会
@@ -230,7 +231,9 @@ https://github.com/builderscon/planning/wiki/Staff
   - [実際使ったカンペの内容](https://gist.github.com/onigra/1cad9b7364e4fac0f059)
  - 役割を作ることと、役割を引き受けることは、ともすれば権威付けになりやすいがスタッフとしては動きやすくなる
  - [oniguraさんがスタッフしたことのまとめブログ](http://onigra.github.io/blog/2014/08/30/yapc-asia-2014-is-over/)
- - 
+ - 事前にコアスタッフと当日スタッフで役割分担を明確にして、各自が当日思い描いて事前準備できるといい。
+  - 物理面だけでなく、こころの準備もできる。
+
 ***
 
 ### スタッフの方々のブログ・スライド
